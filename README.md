@@ -23,7 +23,7 @@ Hi there! I'm Jeronimo Junior! 👋
   <img align="center" alt="JJ-Raspberry" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
   <img align="center" alt="JJ-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
   <img align="center" alt="JJ-Unreal" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
-  <img align="right" alt="JJSETech-pic" height="150" style="border-radius:50px;" src="https://jjstudioentertainment.com/developer//files/JuniorDev.jpg?width=676&height=676">
+  <img align="right" alt="JJSETech-pic" height="150" style="border-radius:50px;" src="https://developer.jjstudioentertainment.com/files/JuniorDev.jpg?width=676&height=676">
 </div>
     
   ##
