@@ -1,8 +1,33 @@
-Hi there! I'm Jeronimo Junior! 👋
+# 👋 Hi, I'm Jeronimo Junior (JJ)
 
-- 🔭 I’m currently working on Flutter / Swift / Unreal Engine
-- 🌱 I’m currently learning Full-Stack
-- 😄 Pronouns: He/Him
+🚀 Web Developer | Game & Mobile Developer  
+🌐 Portfolio: https://developer.jjstudioentertainment.com  
+💻 Online Blog: https://jjstudioentertainment.com
+
+I’m a passionate developer who enjoys building practical tools, web applications, and experimental projects.  
+I focus on clean code, performance, and beginner-friendly solutions.
+
+---
+
+## 🧠 About Me
+
+- 💻 Web and software developer  
+- 🎮 Interested in game development and interactive projects  
+- 🔧 I like creating tools that solve real problems  
+- 📚 Always learning new technologies  
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Online Blog
+Blog about technology and programming tutorials.
+
+🔗 https://jjstudioentertainment.com
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/jjsetech">
@@ -11,9 +36,7 @@ Hi there! I'm Jeronimo Junior! 👋
     <img height="180em"
       src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjsetech&layout=compact&langs_count=7&theme=dracula" />
   </a>
-</div>
-
-<div style="display: inline_block"><br>
+  <div style="display: inline_block"><br>
   <img align="center" alt="JJ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JJ-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="JJ-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -28,14 +51,23 @@ Hi there! I'm Jeronimo Junior! 👋
   <img align="center" alt="JJ-Unreal" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
   <img align="right" alt="JJSETech-pic" height="150" style="border-radius:50px;" src="https://developer.jjstudioentertainment.com/files/JuniorDev.jpg?width=676&height=676">
 </div>
-    
-  ##
- 
-<div> 
+</div>
+
+---
+
+## 🌎 Connect With Me
+
   <a href="https://www.youtube.com/channel/UCyMXHsEdQCPy3DoEN532qRw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/jeronimojunior1983" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/jjsetech" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeronimojuniordev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+---
+
+
+
+<div> 
+⭐ If you like my projects, consider giving a star!
  
   ![snake gif](https://github.com/jjsetech/jjsetech/blob/output/github-snake-dark.svg)
  
